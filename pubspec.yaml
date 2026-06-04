@@ -1,6 +1,6 @@
 name: otel_aws_api_gateway
 description: "Dartastic OpenTelemetry bridge for AWS API Gateway (REST + HTTP + WebSocket APIs)."
-version: 0.1.0-beta.1-wip
+version: 0.1.0-beta.1
 repository: https://github.com/dartastic/otel_aws_api_gateway
 homepage: https://dartastic.io
 publish_to: https://pub.dartastic.io
